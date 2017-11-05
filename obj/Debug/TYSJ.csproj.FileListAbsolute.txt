@@ -1,0 +1,11 @@
+D:\Visual Studio 2012\Projects\TYSJ\TYSJ\bin\Debug\TYSJ.exe
+D:\Visual Studio 2012\Projects\TYSJ\TYSJ\bin\Debug\TYSJ.pdb
+D:\Visual Studio 2012\Projects\TYSJ\TYSJ\bin\Debug\CSkin.dll
+D:\Visual Studio 2012\Projects\TYSJ\TYSJ\bin\Debug\WinAPI32.dll
+D:\Visual Studio 2012\Projects\TYSJ\TYSJ\obj\Debug\TYSJ.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\TYSJ\TYSJ\obj\Debug\TYSJ.Form1.resources
+D:\Visual Studio 2012\Projects\TYSJ\TYSJ\obj\Debug\TYSJ.MessageForm.resources
+D:\Visual Studio 2012\Projects\TYSJ\TYSJ\obj\Debug\TYSJ.Properties.Resources.resources
+D:\Visual Studio 2012\Projects\TYSJ\TYSJ\obj\Debug\TYSJ.csproj.GenerateResource.Cache
+D:\Visual Studio 2012\Projects\TYSJ\TYSJ\obj\Debug\TYSJ.exe
+D:\Visual Studio 2012\Projects\TYSJ\TYSJ\obj\Debug\TYSJ.pdb
